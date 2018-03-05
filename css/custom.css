@@ -1,0 +1,180 @@
+/* your styles go here */
+
+.mi_map_parrafo{
+    color:green;
+}
+
+#navbar{
+    background-color:black;
+}
+
+.menu_inicio{
+    color:white;
+}
+
+.menu_inicio:hover {
+    color:aquamarine;
+}
+
+
+.fuente{
+    font-family: "Comic Sans Ms";
+    font-weight: bold;
+}
+
+.fuente_animada{
+    font-family: "Comic Sans Ms";
+    font-weight: bold;
+    color:aquamarine;
+}
+
+.fuente_logo:hover{
+    color: white;
+}
+
+.progress-bar{
+    background-color: tomato;
+}
+
+.title{
+    margin-top: -10px;
+}
+
+#footer{
+    background-color:black;
+ 
+}
+
+
+/*   PARA QUE HALLA 5 COLUMNAS   */
+.col-xs-5,
+
+.col-sm-5,
+
+.col-md-5,
+
+.col-lg-5 {
+
+  min-height: 1px; 
+
+  position: relative;
+
+}
+
+.col-xs-5 {
+
+  float: left;
+
+  width: 20%;
+
+}
+
+
+@media (min-width: 768px) {
+
+    .col-sm-5 {
+  
+      float: left;
+  
+      width: 20%;
+  
+    }
+  
+  }
+  
+  @media (min-width: 992px) {
+  
+    .col-md-5 {
+  
+      float: left;
+  
+      width: 20%;
+  
+    }
+  
+  }
+  
+  @media (min-width: 1200px) {
+  
+    .col-lg-5 {
+  
+      float: left;
+  
+      width: 20%;
+  
+    }
+  
+  }
+
+
+/*   *-*-*-    *- */
+
+.btn-contactar{
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    background-color:orangered;
+    color: white;
+}
+
+.btn-contactar:hover{
+    background-color:white;
+    color: orangered;
+}
+
+p{
+    font-weight: bold;
+    font-family: "Comic Sans MS";
+}
+
+.progress-title{
+    font-weight: bold;
+    font-family: "Comic Sans MS";
+}
+
+.title{
+    font-weight: bold;
+    font-family: "Comic Sans MS";
+}
+
+.arriba{
+	position:fixed;
+	    bottom:30px;
+	    right:20px;
+	    display:none;
+	    opacity: 0.6;
+}
+.arriba:hover{
+		opacity: 1;
+}
+
+.btn-danger{
+    background-color:orangered;
+    color: white;
+}
+
+.btn-danger:hover{
+    background-color: white;
+    color: orangered;
+}
+
+.fecha{
+    text-align: center;
+
+}
+
+.resalte{
+    font-family: "Comic Sans Ms";
+    font-weight: bold;
+    color: palegoldenrod;
+    font-size:1.8em;
+}
+
+.ampliar{
+    font-size: 1.2em;
+}
+
+.ampliar_titulo{
+    font-size: 1.4em;
+
+}
+
