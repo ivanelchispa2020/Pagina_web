@@ -61,8 +61,6 @@ $(function(){
         }
        
         $("#mensajes_error_email").fadeIn(2000).html("<h2>Procesando peticion.</h2");
-
-        alert("ok");
        
         from($('mi_formulario'),'respuesta','contact.php')
 
