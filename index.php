@@ -80,7 +80,7 @@
     <!-- #### JAVASCRIPT FILES ### -->
 
     
-    <script src="js/js.js"></script>
+    <script src="js/funciones.js"></script>
     <!-- js base -->
     <script src="js/bootstrap.min.js"></script>
 
